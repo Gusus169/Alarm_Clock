@@ -21,3 +21,11 @@ I switched a 3x3 matrix instead of a 4x4, which made more sense, and I also embo
 
 
 
+SESSION 2 (30-min)
+
+schematic done!
+
+I had to sacrifice the backlit adjustment with code feature, it will be stuck to the highest setting, I might be able to change it with some resistors, but it won't change with code  
+
+<img width="1273" height="608" alt="image" src="https://github.com/user-attachments/assets/c8647e7b-1ee7-4ba5-be33-e3b33e0aadde" />
+
